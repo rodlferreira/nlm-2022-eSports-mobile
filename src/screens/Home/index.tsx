@@ -21,3 +21,4 @@ export function Home() {
         </View>
     );
 }
+//pausando pra resolver um problema
